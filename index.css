@@ -115,7 +115,6 @@ input[type="email"], [type="password"]{
     margin-left: 15px;
     background-color: #2F80ED;
     margin: 10px 163.5px;
-
 }
 .reg_link{
     /*position: absolute;
@@ -147,4 +146,24 @@ input[type="email"], [type="password"]{
     top: 0px;
     border-radius: 0px;
     color: white;
+}
+.nav a{
+    display: inline-block;
+    width: 20%;
+    height: 40px;
+    border-radius: 10px;
+    background-color: purple;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding-top: 20px;
+}
+.nav{
+    width: 429px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin: 10px 163.5px;
+}
+.sub2{
+    float: right;
 }
